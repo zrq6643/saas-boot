@@ -1,0 +1,8 @@
+https://start.spring.io/
+window打开命令行：shift+鼠标右键
+boot打jar包修改端口：java -jar xxx.jar --server.port=8888  参照地址：http://www.importnew.com/30029.html
+java -jar xxx.jar --spring.profiles.active=prod  手动修改环境
+boot：过滤器+拦截器处理请求链路图参照地址：http://www.importnew.com/29401.html
+idea配置自动导包：https://jingyan.baidu.com/article/e75aca856f356c142edac630.html
+Mybatis-Plus是Mybatis的增强工具包，其简化了CRUD操作，提供了代码生成器,强大的条件构造器(这是我最喜欢的一个)，同时内置了多个实用插件
+参照地址：http://www.importnew.com/29501.html
